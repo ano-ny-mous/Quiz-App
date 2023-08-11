@@ -2,16 +2,20 @@
 
 **QuizApp** is a simple Android application that allows users to take a quiz consisting of multiple-choice and open-ended questions. The app calculates the user's score based on their answers and provides feedback.
 
+## Screenshots
+
+<img src="https://github.com/ano-ny-mous/Quiz-App/assets/91519560/fdc001c8-115d-43b9-9b74-2441a16982f1" alt="Screenshot 1" width="300" >
+
+<img src="https://github.com/ano-ny-mous/Quiz-App/assets/91519560/cd3cff43-ca69-46d2-9c94-7f8741a181b6" alt="Screenshot 2" width="300" >
+
+<img src="https://github.com/ano-ny-mous/Quiz-App/assets/91519560/5c858d79-0316-4046-9143-c1b89f8115dc" alt="Screenshot 3" width="300" >
+
 ## Features
 
 - **Multiple-choice questions** with radio button and checkbox options.
 - **Open-ended question** with text input.
 - **Score calculation** based on the user's answers.
 - **Toast message** displaying the user's name and score upon quiz submission.
-
-## Screenshots
-
-
 
 ## Getting Started
 
